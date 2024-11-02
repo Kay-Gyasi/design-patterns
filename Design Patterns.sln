@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimUDuck", "SimUDuck\SimUDuck.csproj", "{16A276B4-25F8-4099-AF1E-BBAA0E8B25EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather-O-Rama", "Weather-O-Rama\Weather-O-Rama.csproj", "{DDC1C192-7EB4-4C01-8A8B-25925E3D5BF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stategy-Pattern", "Stategy-Pattern", "{5C3E7070-74E4-4241-8C7F-308462F697A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Observer-Pattern", "Observer-Pattern", "{BA128F59-D7B1-41BB-B325-BF45D36E58A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Decorator-Pattern", "Decorator-Pattern", "{29E536C0-1899-471C-8767-BF55A5F5A72D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarbuzzCoffee", "StarbuzzCoffee\StarbuzzCoffee.csproj", "{5D9F9E51-FED0-4828-BD23-5308B90E265C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A276B4-25F8-4099-AF1E-BBAA0E8B25EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A276B4-25F8-4099-AF1E-BBAA0E8B25EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A276B4-25F8-4099-AF1E-BBAA0E8B25EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A276B4-25F8-4099-AF1E-BBAA0E8B25EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC1C192-7EB4-4C01-8A8B-25925E3D5BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC1C192-7EB4-4C01-8A8B-25925E3D5BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC1C192-7EB4-4C01-8A8B-25925E3D5BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC1C192-7EB4-4C01-8A8B-25925E3D5BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9F9E51-FED0-4828-BD23-5308B90E265C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9F9E51-FED0-4828-BD23-5308B90E265C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9F9E51-FED0-4828-BD23-5308B90E265C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9F9E51-FED0-4828-BD23-5308B90E265C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{16A276B4-25F8-4099-AF1E-BBAA0E8B25EE} = {5C3E7070-74E4-4241-8C7F-308462F697A6}
+		{DDC1C192-7EB4-4C01-8A8B-25925E3D5BF0} = {BA128F59-D7B1-41BB-B325-BF45D36E58A8}
+		{5D9F9E51-FED0-4828-BD23-5308B90E265C} = {29E536C0-1899-471C-8767-BF55A5F5A72D}
+	EndGlobalSection
+EndGlobal
